@@ -2,6 +2,6 @@
 
 ## Changes for first Pull Request
 
-### Dax Patel
+# Dax Patel
 
-# Chala JA
+### Chala JA
