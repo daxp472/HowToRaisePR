@@ -1,7 +1,4 @@
-# HowToRaisePR
+# Pull Request new file
 
 ## Changes for first Pull Request
-
-# Dax Patel
-
-### Chala JA
+Coding Gita
